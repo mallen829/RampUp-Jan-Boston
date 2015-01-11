@@ -1,3 +1,5 @@
 Name: Melissa
 Expectation: Gain a new skill set and move to a more interesting career
 Occupation: Administrative Assistant
+Interesting Fact: I can play the bassoon
+App Idea:An app that uses touch ID to access secure notes or passwords
